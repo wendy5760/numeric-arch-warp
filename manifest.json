@@ -1,0 +1,12 @@
+{
+  "name": "Numeric Arch Warp",
+  "id": "1479831036472710141",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}
